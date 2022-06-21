@@ -456,7 +456,7 @@ h2 {
     transform: scale(1);
     transition: transform 250ms;
 }
-@media (min-width: 1440px) {
+@media (min-width: 1400px) {
     nav {
         background: url(images/bg-pattern-intro-desktop.svg), linear-gradient(to right, var(--Grad-light-red), var(--Light-red) 80%);
         background-position: bottom -1232px right -1296px, center;
